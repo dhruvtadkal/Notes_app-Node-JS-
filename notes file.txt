@@ -34,3 +34,5 @@ console.log(square(3))
 * 'node inspect app.js add --title="hello" --body="This is my first note"' : type this command in vs console to start the debugger
 
 * 'chrome://inspect' : type in chrome to open chrome debugger
+
+* For the packages like chalk to run, import the modules file
